@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MyLibrary
 {
-	// моя библотека
+    // моя библотека
 	
     public class Library
     {
