@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromAtoBTest", "FromAtoBTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarSwap", "VarSwap\VarSwap.csproj", "{843F1E0F-89E2-49E6-BD8D-2CB50C3E81D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowName", "ShowName\ShowName.csproj", "{603CC9E4-91C0-4974-A670-286E41646411}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{843F1E0F-89E2-49E6-BD8D-2CB50C3E81D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843F1E0F-89E2-49E6-BD8D-2CB50C3E81D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843F1E0F-89E2-49E6-BD8D-2CB50C3E81D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603CC9E4-91C0-4974-A670-286E41646411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603CC9E4-91C0-4974-A670-286E41646411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603CC9E4-91C0-4974-A670-286E41646411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603CC9E4-91C0-4974-A670-286E41646411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
