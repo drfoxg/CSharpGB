@@ -1,2 +1,2 @@
 # CSharpGB
-CSharp lessons
+CSharp lessons and GitHub
