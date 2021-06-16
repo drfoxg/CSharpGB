@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyMassIndex", "BodyMassIndex\BodyMassIndex.csproj", "{5C0273E1-7CFA-4646-BFE3-F636AE5660AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromAtoB", "FromAtoB\FromAtoB.csproj", "{1E637C11-1A09-4C17-A785-E4ADCC651A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromAtoBTest", "FromAtoBTest\FromAtoBTest.csproj", "{5862EBDC-1A01-4541-BF03-B49162BD8F6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{5C0273E1-7CFA-4646-BFE3-F636AE5660AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C0273E1-7CFA-4646-BFE3-F636AE5660AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C0273E1-7CFA-4646-BFE3-F636AE5660AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E637C11-1A09-4C17-A785-E4ADCC651A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E637C11-1A09-4C17-A785-E4ADCC651A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E637C11-1A09-4C17-A785-E4ADCC651A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E637C11-1A09-4C17-A785-E4ADCC651A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5862EBDC-1A01-4541-BF03-B49162BD8F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5862EBDC-1A01-4541-BF03-B49162BD8F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5862EBDC-1A01-4541-BF03-B49162BD8F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5862EBDC-1A01-4541-BF03-B49162BD8F6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
