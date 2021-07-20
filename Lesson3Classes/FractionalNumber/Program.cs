@@ -26,6 +26,11 @@ namespace FractionalNumber
             // 2/3
             Fractional b = new Fractional(2, 3);
 
+
+            // 2/0
+            Fractional t = new Fractional(2, 0);
+
+
             Fractional c = a.Sum(b);
             Library.PrintGreenLine("Sum: " + c.ToString() + $" Сокращенная дробь: {c.Reduction().ToString()}" + $" Десятичная дробь: {c.DecimalFraction, 0:f2}");
 

@@ -39,6 +39,11 @@ namespace FractionalNumber
             }
         }
 
+        public Fractional()
+        {
+            Numerator = 0;
+            Denominator = 1;
+        }
         public Fractional(int n, int d)
         {
             Numerator = n;
